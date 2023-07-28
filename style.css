@@ -1,0 +1,25 @@
+.title1{
+    padding-top: 75px;
+}
+
+.jumbotron{
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+.part2{
+    padding-top: 25px;
+}
+
+.list-item{
+    padding-top: 25px;
+}
+
+.row{
+    padding: 50px;
+    margin-left: 80px;
+}
+
+.container{
+    padding: 5px;
+}
